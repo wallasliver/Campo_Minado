@@ -64,9 +64,7 @@ public class Campo {
 		 
 	 }
 	 
-	 String campoTeste () {
-		 return "Teste Campo"; 
-	 }
+
 	 
 
 }
