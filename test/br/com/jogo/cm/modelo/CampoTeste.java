@@ -21,6 +21,7 @@ public class CampoTeste {
 		
 		//assertTrue(resultado);
 		assertFalse(resultado);
+		
 	}
 
 }
